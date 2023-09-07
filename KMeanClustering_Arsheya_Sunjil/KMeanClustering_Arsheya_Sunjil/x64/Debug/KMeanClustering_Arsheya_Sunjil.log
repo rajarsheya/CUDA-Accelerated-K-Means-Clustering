@@ -1,0 +1,269 @@
+﻿  Compiling CUDA source file kernel.cu...
+  
+  D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.0\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.34.31933\bin\HostX64\x64" -x cu   -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.0\include" -I"D:\All software installed here\VCPKG\vcpkg\installed\x64-windows\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.0\include"  -G   --keep-dir x64\Debug  -maxrregcount=0  --machine 64 --compile -cudart static  -g  -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Fdx64\Debug\vc143.pdb /FS /Zi /RTC1 /MDd " -o "D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\x64\Debug\kernel.cu.obj" "D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu" 
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(205): warning #192-D: unrecognized character escape sequence
+  
+  Remark: The warnings can be suppressed with "-diag-suppress <warning-number>"
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(205): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(205): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(205): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(205): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(205): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(205): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(392): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(392): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(392): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(392): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(392): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(392): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(392): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(392): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(393): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(393): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(393): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(393): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(393): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(393): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(393): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(393): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(394): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(394): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(394): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(394): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(394): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(394): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(394): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(394): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(537): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(537): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(537): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(537): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(537): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(537): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(537): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(537): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(538): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(538): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(538): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(538): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(538): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(538): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(538): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(538): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(539): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(539): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(539): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(539): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(539): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(539): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(539): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(539): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(205): warning #192-D: unrecognized character escape sequence
+  
+  Remark: The warnings can be suppressed with "-diag-suppress <warning-number>"
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(205): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(205): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(205): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(205): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(205): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(205): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(392): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(392): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(392): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(392): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(392): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(392): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(392): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(392): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(393): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(393): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(393): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(393): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(393): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(393): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(393): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(393): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(394): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(394): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(394): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(394): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(394): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(394): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(394): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(394): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(320): warning #177-D: variable "D_seq" was declared but never referenced
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(537): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(537): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(537): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(537): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(537): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(537): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(537): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(537): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(538): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(538): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(538): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(538): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(538): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(538): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(538): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(538): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(539): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(539): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(539): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(539): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(539): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(539): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(539): warning #192-D: unrecognized character escape sequence
+  
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(539): warning #192-D: unrecognized character escape sequence
+  
+  kernel.cu
+  tmpxft_00001414_00000000-7_kernel.cudafe1.cpp
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(230): warning C4305: 'return': truncation from 'int' to 'bool'
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(355): warning C4244: 'initializing': conversion from '_Rep' to 'float', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(384): warning C4244: 'initializing': conversion from '_Rep' to 'float', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(448): warning C4244: 'initializing': conversion from '_Rep' to 'float', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(469): warning C4244: 'initializing': conversion from '_Rep' to 'float', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(480): warning C4244: 'initializing': conversion from '_Rep' to 'float', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(484): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(504): warning C4244: 'initializing': conversion from '_Rep' to 'float', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\kernel.cu(520): warning C4244: 'initializing': conversion from '_Rep' to 'float', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  KMeanClustering_Arsheya_Sunjil.vcxproj -> D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\x64\Debug\KMeanClustering_Arsheya_Sunjil.exe

@@ -1,0 +1,19 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+import matplotlib.patches as mpatches
+
+# Load data from CSV file
+df = pd.read_csv('D:\School\MasterDegree\CSS535\Final Project\KMeanClustering_Arsheya_Sunjil\KMeanClustering_Arsheya_Sunjil\ProjectKMeanClustering_Arsheya_SunjilKMeanClustering_Arsheya_Sunjiloutdirclusters.csv')
+X = df.iloc[:, [0, 1]].values
+y_kmeans = df.iloc[:, 2].values
+
+print(X)
+print(y_kmeans)
+fig, ax = plt.subplots()
+scatter = ax.scatter(X[:, 0], X[:, 1], c=y_kmeans, cmap='viridis', alpha=0.8)
+ax.set_xlabel('X Label')
+ax.set_ylabel('Y Label')
+ax.set_title('K-means Clustering')
+
+# Show the plot
+plt.show()
