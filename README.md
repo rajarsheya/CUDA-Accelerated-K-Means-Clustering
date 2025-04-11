@@ -11,3 +11,5 @@ algorithm, distance computation. We demonstrate the effectiveness of our approac
 experiments on various datasets and show significant speedups compared to a CPU-based
 implementation. The results indicate that our method can achieve significant speedup over the CPU,
 making it a promising approach for large-scale data clustering applications.
+
+# Demo Video: https://www.youtube.com/watch?v=y7oeOcvLz3E
